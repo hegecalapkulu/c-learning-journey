@@ -24,7 +24,7 @@ This challenge is part of my C Programming learning journey.
 
 - C
 
-  ## 💻 Environment
+## 💻 Environment
 
 - GCC Compiler
 - Visual Studio Code
