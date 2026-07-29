@@ -1,29 +1,32 @@
 # C Learning Journey
 
-This repository documents my progress while learning the C programming language.
+This repository documents my journey of learning the C programming language from the fundamentals to more advanced concepts through daily exercises and projects.
 
-## Goals
+## 🎯 Goals
 
 - Build a strong foundation in C
-- Improve my problem-solving skills
-- Practice writing clean and understandable code
-- Track my progress through exercises and projects
+- Improve problem-solving skills
+- Write clean, readable, and maintainable code
+- Track my progress with daily challenges and projects
 
-## Repository Structure
+## 📂 Repository Structure
 
-- `Day12-Strings` - String exercises and challenge
-- `Day13-Functions` - Function exercises and challenge
+- Day12-Strings – String exercises and challenge
+- Day13-Functions – Function exercises and challenge
+- Day14-Scope – Scope exercises and banking system challenge
 
-## Topics
+## 📚 Topics Covered
 
-- Variables and data types
-- Input and output
-- Conditions
+- Variables & Data Types
+- Input & Output
+- Operators
+- Conditional Statements
 - Loops
 - Arrays
 - Strings
 - Functions
+- Scope
 
-## About Me
+## 🚀 About Me
 
-I am a Computer Engineering student learning programming and software development.
+I am a Computer Engineering student learning programming and software development while documenting my progress on GitHub.
