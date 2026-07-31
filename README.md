@@ -1,19 +1,21 @@
 # C Learning Journey
 
-This repository documents my journey of learning the C programming language from the fundamentals to more advanced concepts through daily exercises and projects.
+This repository documents my journey of learning the C programming language from the fundamentals to more advanced concepts through daily exercises, review sessions, and mini projects.
 
 ## 🎯 Goals
 
 - Build a strong foundation in C
 - Improve problem-solving skills
 - Write clean, readable, and maintainable code
-- Track my progress with daily challenges and projects
+- Develop logical thinking through daily coding challenges
+- Track my progress through projects and review challenges
 
 ## 📂 Repository Structure
 
-- Day12-Strings – String exercises and challenge
-- Day13-Functions – Function exercises and challenge
+- Day12-String – String exercises and challenge
+- Day13-Function – Function exercises and challenge
 - Day14-Scope – Scope exercises and banking system challenge
+- Day15-C-Fundamentals-Review – Student grade system review project
 
 ## 📚 Topics Covered
 
@@ -29,4 +31,4 @@ This repository documents my journey of learning the C programming language from
 
 ## 🚀 About Me
 
-I am a Computer Engineering student learning programming and software development while documenting my progress on GitHub.
+I am a Computer Engineering student documenting my programming journey while building a strong foundation in C through consistent daily practice and hands-on projects.
