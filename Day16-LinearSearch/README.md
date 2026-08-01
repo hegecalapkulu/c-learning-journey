@@ -1,34 +1,49 @@
 # Day 16 - Linear Search
 
-## Review Topics
+## 📚 Topics Reviewed
 
-- Functions
-- Function Parameters
-- Arrays
-- Variable Length Arrays (VLA)
-- Input Handling
-- Algorithm Design
+Functions
 
-## New Topic
+Function Parameters & Arguments
 
-- Linear Search
+Return Values
 
-## Final Challenge
+Arrays
 
-Developed a complete Linear Search program where the user:
+Variable Length Arrays (VLA)
 
-- Chooses the array size.
-- Enters all array elements.
-- Selects a target value.
-- Searches the entire array.
-- Displays every matching index.
-- Counts total matches.
-- Counts total comparisons.
+Input / Output
 
-## Skills Practiced
+Algorithm Design
 
-- Designing algorithms
-- Breaking problems into functions
-- Passing arrays to functions
-- Writing code without global variables
-- Building a complete console application
+## 🎯 Objective
+
+Learn and implement the Linear Search algorithm by building a complete search program without step-by-step guidance.
+
+## 📁 Files
+
+Linear_Search_Project.c
+
+## 📝 Notes
+
+Learned the Linear Search algorithm.
+
+Implemented a complete Linear Search program using functions.
+
+Allowed the user to define the array size and enter all elements.
+
+Searched the entire array for a target value.
+
+Displayed all matching indexes.
+
+Counted the total number of matches and comparisons.
+
+Practiced writing code without global variables.
+
+## 💻 Environment
+
+Language: C
+
+Compiler: GCC
+
+IDE: Visual Studio Code
