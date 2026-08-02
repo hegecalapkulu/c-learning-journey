@@ -2,8 +2,6 @@
 
 This repository documents my journey of learning the C programming language from the fundamentals to more advanced concepts through daily exercises, review sessions, algorithms, and mini projects.
 
----
-
 ## 🎯 Goals
 
 - Build a strong foundation in C
@@ -12,8 +10,6 @@ This repository documents my journey of learning the C programming language from
 - Develop logical thinking through algorithms and daily coding challenges
 - Track my progress through projects and review sessions
 
----
-
 ## 📂 Repository Structure
 
 - Day12-String – String exercises and challenge
@@ -21,8 +17,7 @@ This repository documents my journey of learning the C programming language from
 - Day14-Scope – Scope exercises and banking system challenge
 - Day15-C-Fundamentals-Review – Student grade system review project
 - Day16-LinearSearch – Linear Search algorithm and final project
-
----
+- Day17-BinarySearch – Binary Search algorithm and final project
 
 ## 📚 Topics Covered
 
@@ -32,14 +27,18 @@ This repository documents my journey of learning the C programming language from
 - Conditional Statements
 - Loops
 - Arrays
+- Variable Length Arrays (VLA)
 - Strings
 - Functions
+- Function Parameters & Arguments
+- Return Values
 - Scope
 - Algorithm Design
 - Linear Search
-
----
+- Binary Search
+- Input Validation
+- Error Handling
 
 ## 🚀 About Me
 
-I am a Computer Engineering student documenting my programming journey while building a strong foundation in C through consistent daily practice, algorithm implementation, and hands-on projects.
+I am a Computer Engineering student documenting my programming journey while building a strong foundation in C through consistent daily practice, algorithm implementation, and hands-on projects.  
