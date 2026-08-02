@@ -1,6 +1,6 @@
 # Day 16 - Linear Search
 
-## 📚 Topics Reviewed
+## 📚 Topics Covered
 
 Functions
 
