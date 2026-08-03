@@ -18,6 +18,7 @@ This repository documents my journey of learning the C programming language from
 - Day15-C-Fundamentals-Review – Student grade system review project
 - Day16-LinearSearch – Linear Search algorithm and final project
 - Day17-BinarySearch – Binary Search algorithm and final project
+- Day18-BubbleSort – Bubble Sort algorithm and final project
 
 ## 📚 Topics Covered
 
@@ -36,9 +37,13 @@ This repository documents my journey of learning the C programming language from
 - Algorithm Design
 - Linear Search
 - Binary Search
+- Bubble Sort
+- Nested Loops
+- Swap Operation
+- Algorithm Optimization
 - Input Validation
 - Error Handling
 
 ## 🚀 About Me
 
-I am a Computer Engineering student documenting my programming journey while building a strong foundation in C through consistent daily practice, algorithm implementation, and hands-on projects.  
+I am a Computer Engineering student documenting my programming journey while building a strong foundation in C through consistent daily practice, algorithm implementation, and hands-on projects.
