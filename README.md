@@ -19,6 +19,7 @@ This repository documents my journey of learning the C programming language from
 - Day16-LinearSearch – Linear Search algorithm and final project
 - Day17-BinarySearch – Binary Search algorithm and final project
 - Day18-BubbleSort – Bubble Sort algorithm and final project
+- Day19-SelectionSort – Selection Sort algorithm and final project
 
 ## 📚 Topics Covered
 
@@ -38,9 +39,11 @@ This repository documents my journey of learning the C programming language from
 - Linear Search
 - Binary Search
 - Bubble Sort
+- Selection Sort
 - Nested Loops
 - Swap Operation
 - Algorithm Optimization
+- Algorithm Comparison
 - Input Validation
 - Error Handling
 
