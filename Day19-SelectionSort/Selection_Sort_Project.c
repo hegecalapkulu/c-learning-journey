@@ -1,4 +1,4 @@
-// Day18-SelectionSort ----> Selection Sort Project
+// Day19-SelectionSort ----> Selection Sort Project
 
 #include <stdio.h>
 
