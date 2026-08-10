@@ -21,6 +21,7 @@ This repository documents my journey of learning the C programming language from
 - Day18-BubbleSort – Bubble Sort algorithm and final project
 - Day19-SelectionSort – Selection Sort algorithm and final project
 - Day20-InsertionSort – Insertion Sort algorithm and final project
+- Day21-PointerFundamentals – Pointer fundamentals and Game Stats Manager project
 
 ## 📚 Topics Covered
 
@@ -41,7 +42,7 @@ This repository documents my journey of learning the C programming language from
 - Binary Search
 - Bubble Sort
 - Selection Sort
-- **Insertion Sort**
+- Insertion Sort
 - Nested Loops
 - While Loops
 - Swap Operation
@@ -50,6 +51,12 @@ This repository documents my journey of learning the C programming language from
 - Algorithm Comparison
 - Input Validation
 - Error Handling
+- Pointers
+- Memory Addresses
+- Address Operator (&)
+- Dereference Operator (*)
+- NULL Pointers
+- Pointer Safety
 
 ## 🚀 About Me
 
