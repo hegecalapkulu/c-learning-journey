@@ -22,6 +22,7 @@ This repository documents my journey of learning the C programming language from
 - Day19-SelectionSort – Selection Sort algorithm and final project
 - Day20-InsertionSort – Insertion Sort algorithm and final project
 - Day21-PointerFundamentals – Pointer fundamentals and Game Stats Manager project
+- Day22-PointersProject – Pointer parameters and Bank Account Manager project
 
 ## 📚 Topics Covered
 
@@ -57,6 +58,12 @@ This repository documents my journey of learning the C programming language from
 - Dereference Operator (*)
 - NULL Pointers
 - Pointer Safety
+- Pointer Parameters
+- Passing Addresses to Functions
+- Dereferencing Pointer Parameters
+- Modifying Variables Through Pointers
+- Multiple Pointer Parameters
+- Menu-Driven Programs
 
 ## 🚀 About Me
 
