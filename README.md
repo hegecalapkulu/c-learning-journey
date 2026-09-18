@@ -23,6 +23,7 @@ This repository documents my journey of learning the C programming language from
 - Day20-InsertionSort – Insertion Sort algorithm and final project
 - Day21-PointerFundamentals – Pointer fundamentals and Game Stats Manager project
 - Day22-PointersProject – Pointer parameters and Bank Account Manager project
+- Day23-StructProject – Structs with pointers and Library Book System project
 
 ## 📚 Topics Covered
 
@@ -64,6 +65,14 @@ This repository documents my journey of learning the C programming language from
 - Modifying Variables Through Pointers
 - Multiple Pointer Parameters
 - Menu-Driven Programs
+- Structs
+- Struct Definition
+- Struct Variables
+- Dot Operator
+- Array of Structs
+- Structs with Pointers
+- Arrow Operator
+- Struct Scope
 
 ## 🚀 About Me
 
