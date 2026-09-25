@@ -24,6 +24,7 @@ This repository documents my journey of learning the C programming language from
 - Day21-PointerFundamentals – Pointer fundamentals and Game Stats Manager project
 - Day22-PointersProject – Pointer parameters and Bank Account Manager project
 - Day23-StructProject – Structs with pointers and Library Book System project
+- Day24-DynamicMemory – Dynamic memory allocation and Product Price Tracker project
 
 ## 📚 Topics Covered
 
@@ -73,6 +74,12 @@ This repository documents my journey of learning the C programming language from
 - Structs with Pointers
 - Arrow Operator
 - Struct Scope
+- Dynamic Memory Allocation
+- malloc
+- free
+- realloc
+- sizeof
+- Memory Leaks
 
 ## 🚀 About Me
 
